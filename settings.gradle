@@ -1,0 +1,1 @@
+include ':app', ':imlicit_intent', ':explicit_intent', ':flag_intent'
